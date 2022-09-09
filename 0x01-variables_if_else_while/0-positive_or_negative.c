@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
+
+/*
  * more headers goes there 
  * 
  * Return: Always 0 (success/correct) 
